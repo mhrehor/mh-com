@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MichaelHrehor.com",
+    "description": "",
+    "home_page_url": "https://mhrehor.github.io/mh-com",
+    "feed_url": "https://mhrehor.github.io/mh-com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Michael Hrehor"
+    },
+    "items": [
+        {
+            "id": "https://mhrehor.github.io/mh-com/testing.html",
+            "url": "https://mhrehor.github.io/mh-com/testing.html",
+            "title": "Testing",
+            "summary": "I am testing this.",
+            "content_html": "<p>I am testing this.</p>",
+            "author": {
+                "name": "Michael Hrehor"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-05-28T14:42:20-07:00",
+            "date_modified": "2021-05-28T14:42:20-07:00"
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mhrehor.github.io/mh-com/sitemap.xml
