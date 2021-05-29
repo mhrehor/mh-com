@@ -32,10 +32,11 @@
                 "name": "Michael"
             },
             "tags": [
+                   "Blog",
                    "Autism"
             ],
             "date_published": "2021-05-05T21:12:00-07:00",
-            "date_modified": "2021-05-29T02:00:31-07:00"
+            "date_modified": "2021-05-29T02:54:11-07:00"
         },
         {
             "id": "https://mhrehor.github.io/mh-com/hello-and-welcome/",
