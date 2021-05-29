@@ -1,27 +1,58 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "MichaelHrehor.com",
+    "title": "Michael&#x27;s Life",
     "description": "",
     "home_page_url": "https://mhrehor.github.io/mh-com",
     "feed_url": "https://mhrehor.github.io/mh-com/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Michael Hrehor"
+        "name": "Michael"
     },
     "items": [
         {
-            "id": "https://mhrehor.github.io/mh-com/testing.html",
-            "url": "https://mhrehor.github.io/mh-com/testing.html",
-            "title": "Testing",
-            "summary": "I am testing this.",
-            "content_html": "<p>I am testing this.</p>",
+            "id": "https://mhrehor.github.io/mh-com/my-autistic-journey/",
+            "url": "https://mhrehor.github.io/mh-com/my-autistic-journey/",
+            "title": "My Autistic Journey",
+            "summary": " Background This is going to be hard for me to write and explain. I have been thinking about this, and researching it, for several years at least now. The easiest way for me to start off will be with linking to this blog post by Rory&hellip;",
+            "image": "https://mhrehor.github.io/mh-com/media/posts/5/My-Autistic-Journey-Featured-Image.png",
             "author": {
-                "name": "Michael Hrehor"
+                "name": "Michael"
             },
             "tags": [
+                   "Autism"
             ],
-            "date_published": "2021-05-28T14:42:20-07:00",
-            "date_modified": "2021-05-28T14:42:20-07:00"
+            "date_published": "2021-05-28T23:06:07-07:00",
+            "date_modified": "2021-05-28T23:06:07-07:00"
+        },
+        {
+            "id": "https://mhrehor.github.io/mh-com/health/",
+            "url": "https://mhrehor.github.io/mh-com/health/",
+            "title": "Health",
+            "summary": " Some diagnosis are official and others are self diagnosed or suspected. This is due to the lack of access to appropriate medical care due to financial reasons, inability to find doctors that know anything about the conditions, and trauma caused by many medical professionals.",
+            "image": "https://mhrehor.github.io/mh-com/media/posts/3/Health-Featured-Image.png",
+            "author": {
+                "name": "Michael"
+            },
+            "tags": [
+                   "Health"
+            ],
+            "date_published": "2021-05-28T21:32:25-07:00",
+            "date_modified": "2021-05-28T21:32:25-07:00"
+        },
+        {
+            "id": "https://mhrehor.github.io/mh-com/hello-and-welcome/",
+            "url": "https://mhrehor.github.io/mh-com/hello-and-welcome/",
+            "title": "Hello and Welcome!",
+            "summary": "My Life Hello and Welcome (TW/CW Head Injuries, Chronic Illness, Ableism, Trauma, Seizures, Suicide, Paralysis, Dystonia, Medical Trauma) Hi, my name is Michael and I have quite a story. It starts with a head injury as a toddler and leads to me now finding out&hellip;",
+            "image": "https://mhrehor.github.io/mh-com/media/posts/6/Hello-and-Welcome-Featured-Image.png",
+            "author": {
+                "name": "Michael"
+            },
+            "tags": [
+                   "Blog"
+            ],
+            "date_published": "2021-05-28T19:55:38-07:00",
+            "date_modified": "2021-05-28T19:55:38-07:00"
         }
     ]
 }

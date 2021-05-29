@@ -1,32 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>MichaelHrehor.com</title>
+    <title>Michael&#x27;s Life</title>
     <link href="https://mhrehor.github.io/mh-com/feed.xml" rel="self" />
     <link href="https://mhrehor.github.io/mh-com" />
-    <updated>2021-05-28T14:42:20-07:00</updated>
+    <updated>2021-05-28T23:06:07-07:00</updated>
     <author>
-        <name>Michael Hrehor</name>
+        <name>Michael</name>
     </author>
     <id>https://mhrehor.github.io/mh-com</id>
 
     <entry>
-        <title>Testing</title>
+        <title>My Autistic Journey</title>
         <author>
-            <name>Michael Hrehor</name>
+            <name>Michael</name>
         </author>
-        <link href="https://mhrehor.github.io/mh-com/testing.html"/>
-        <id>https://mhrehor.github.io/mh-com/testing.html</id>
+        <link href="https://mhrehor.github.io/mh-com/my-autistic-journey/"/>
+        <id>https://mhrehor.github.io/mh-com/my-autistic-journey/</id>
+            <category term="Autism"/>
 
-        <updated>2021-05-28T14:42:20-07:00</updated>
+        <updated>2021-05-28T23:06:07-07:00</updated>
             <summary>
                 <![CDATA[
-                    I am testing this.
+                        <img src="https://mhrehor.github.io/mh-com/media/posts/5/My-Autistic-Journey-Featured-Image.png" alt="Stages of Autism Realization" />
+                     Background This is going to be hard for me to write and explain. I have been thinking about this, and researching it, for several years at least now. The easiest way for me to start off will be with linking to this blog post by Rory&hellip;
                 ]]>
             </summary>
-        <content type="html">
-            <![CDATA[
-                <p>I am testing this.</p>
-            ]]>
-        </content>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Health</title>
+        <author>
+            <name>Michael</name>
+        </author>
+        <link href="https://mhrehor.github.io/mh-com/health/"/>
+        <id>https://mhrehor.github.io/mh-com/health/</id>
+            <category term="Health"/>
+
+        <updated>2021-05-28T21:32:25-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://mhrehor.github.io/mh-com/media/posts/3/Health-Featured-Image.png" alt="Ocean with Pier" />
+                     Some diagnosis are official and others are self diagnosed or suspected. This is due to the lack of access to appropriate medical care due to financial reasons, inability to find doctors that know anything about the conditions, and trauma caused by many medical professionals.
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Hello and Welcome!</title>
+        <author>
+            <name>Michael</name>
+        </author>
+        <link href="https://mhrehor.github.io/mh-com/hello-and-welcome/"/>
+        <id>https://mhrehor.github.io/mh-com/hello-and-welcome/</id>
+            <category term="Blog"/>
+
+        <updated>2021-05-28T19:55:38-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://mhrehor.github.io/mh-com/media/posts/6/Hello-and-Welcome-Featured-Image.png" alt="San Diego Bay" />
+                    My Life Hello and Welcome (TW/CW Head Injuries, Chronic Illness, Ableism, Trauma, Seizures, Suicide, Paralysis, Dystonia, Medical Trauma) Hi, my name is Michael and I have quite a story. It starts with a head injury as a toddler and leads to me now finding out&hellip;
+                ]]>
+            </summary>
+        <content></content>
     </entry>
 </feed>
