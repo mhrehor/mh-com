@@ -14,15 +14,25 @@
             "url": "https://mhrehor.github.io/mh-com/my-autistic-journey/",
             "title": "My Autistic Journey",
             "summary": " Background This is going to be hard for me to write and explain. I have been thinking about this,&hellip;",
+            "image": "https://mhrehor.github.io/mh-com/media/posts/5/My-Autistic-Journey-Featured-Image.png",
             "author": {
                 "name": "Michael"
             },
             "tags": [
+                   "Recurrent Meningitis",
+                   "Rare Disease",
+                   "Periodic Paralysis",
+                   "PTSD",
+                   "Mollaret Meningitis",
+                   "Featured",
+                   "Disability",
+                   "Depression",
                    "Blog",
-                   "Autism"
+                   "Autism",
+                   "Anxiety"
             ],
             "date_published": "2021-05-05T21:12:00-07:00",
-            "date_modified": "2021-05-29T20:13:01-07:00"
+            "date_modified": "2021-05-29T21:09:57-07:00"
         },
         {
             "id": "https://mhrehor.github.io/mh-com/hello-and-welcome/",
@@ -34,10 +44,20 @@
                 "name": "Michael"
             },
             "tags": [
-                   "Blog"
+                   "TBI",
+                   "Recurrent Meningitis",
+                   "Rare Disease",
+                   "Periodic Paralysis",
+                   "PTSD",
+                   "Mollaret Meningitis",
+                   "Disability",
+                   "Depression",
+                   "Blog",
+                   "Autism",
+                   "Anxiety"
             ],
             "date_published": "2021-05-04T19:34:00-07:00",
-            "date_modified": "2021-05-29T20:09:45-07:00"
+            "date_modified": "2021-05-29T21:09:40-07:00"
         },
         {
             "id": "https://mhrehor.github.io/mh-com/health/",
@@ -49,10 +69,45 @@
                 "name": "Michael"
             },
             "tags": [
-                   "Health"
+                   "ZNF469",
+                   "TBI",
+                   "Spinal Stenosis",
+                   "Spinal Instability",
+                   "Recurrent Meningitis",
+                   "Periodic Paralysis",
+                   "Paramyotonia Congenita",
+                   "PTSD",
+                   "PLOD1",
+                   "OCD",
+                   "NOD2",
+                   "Mitochondrial Complex III Disorder",
+                   "Mild Cognitive Disorder",
+                   "Mast Cell Disorder",
+                   "MT-CYB",
+                   "Leigh Syndrome",
+                   "LRPPRC",
+                   "KCNJ2",
+                   "KCNE3",
+                   "Inflamatory Bowel Disease",
+                   "Hypermobility",
+                   "Health",
+                   "GFPT1",
+                   "FASTKD2",
+                   "Ehlers-Danlos Syndrome",
+                   "Dysautonomia",
+                   "Double Vision",
+                   "Depression",
+                   "DPAGT1",
+                   "COLQ",
+                   "COL1A1",
+                   "Bradycardia",
+                   "Autism",
+                   "Anxiety",
+                   "Andersen-Tawil Syndrome",
+                   "ADHD"
             ],
             "date_published": "2021-05-03T18:44:00-07:00",
-            "date_modified": "2021-05-29T02:01:51-07:00"
+            "date_modified": "2021-05-29T21:10:09-07:00"
         }
     ]
 }
