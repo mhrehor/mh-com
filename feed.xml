@@ -3,25 +3,12 @@
     <title>Michael&#x27;s Life</title>
     <link href="https://mhrehor.github.io/mh-com/feed.xml" rel="self" />
     <link href="https://mhrehor.github.io/mh-com" />
-    <updated>2021-05-29T03:03:05-07:00</updated>
+    <updated>2021-05-29T20:13:01-07:00</updated>
     <author>
         <name>Michael</name>
     </author>
     <id>https://mhrehor.github.io/mh-com</id>
 
-    <entry>
-        <title>Blog</title>
-        <author>
-            <name>Michael</name>
-        </author>
-        <link href="https://mhrehor.github.io/mh-com/blog/"/>
-        <id>https://mhrehor.github.io/mh-com/blog/</id>
-            <category term="Blog"/>
-
-        <updated>2021-05-29T03:03:05-07:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
     <entry>
         <title>My Autistic Journey</title>
         <author>
@@ -32,11 +19,10 @@
             <category term="Blog"/>
             <category term="Autism"/>
 
-        <updated>2021-05-29T02:54:11-07:00</updated>
+        <updated>2021-05-29T20:13:01-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mhrehor.github.io/mh-com/media/posts/5/My-Autistic-Journey-Featured-Image.png" alt="Stages of Autism Realization" />
-                     Background This is going to be hard for me to write and explain. I have been thinking about this, and researching it, for several years at least now. The easiest way for me to start off will be with linking to this blog post by Rory&hellip;
+                     Background This is going to be hard for me to write and explain. I have been thinking about this,&hellip;
                 ]]>
             </summary>
         <content></content>
@@ -50,11 +36,11 @@
         <id>https://mhrehor.github.io/mh-com/hello-and-welcome/</id>
             <category term="Blog"/>
 
-        <updated>2021-05-29T02:01:09-07:00</updated>
+        <updated>2021-05-29T20:09:45-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mhrehor.github.io/mh-com/media/posts/6/Hello-and-Welcome-Featured-Image.png" alt="San Diego Bay" />
-                    My Life Hello and Welcome (TW/CW Head Injuries, Chronic Illness, Ableism, Trauma, Seizures, Suicide, Paralysis, Dystonia, Medical Trauma) Hi, my name is Michael and I have quite a story. It starts with a head injury as a toddler and leads to me now finding out&hellip;
+                        <img src="https://mhrehor.github.io/mh-com/media/posts/6/Hello-and-Welcome-Featured-Image-2.png" alt="San Diego Bay" />
+                    My Life Hello and Welcome (TW/CW Head Injuries, Chronic Illness, Ableism, Trauma, Seizures, Suicide, Paralysis, Dystonia, Medical Trauma) Hi, my&hellip;
                 ]]>
             </summary>
         <content></content>
@@ -72,7 +58,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://mhrehor.github.io/mh-com/media/posts/3/Health-Featured-Image.png" alt="Ocean with Pier" />
-                     Some diagnosis are official and others are self diagnosed or suspected. This is due to the lack of access to appropriate medical care due to financial reasons, inability to find doctors that know anything about the conditions, and trauma caused by many medical professionals.
+                     Some diagnosis are official and others are self diagnosed or suspected. This is due to the lack of access&hellip;
                 ]]>
             </summary>
         <content></content>
