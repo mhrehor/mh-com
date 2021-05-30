@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Michael&#x27;s Life</title>
-    <link href="https://mhrehor.github.io/mh-com/feed.xml" rel="self" />
-    <link href="https://mhrehor.github.io/mh-com" />
+    <link href="https://michaelhrehor.com/feed.xml" rel="self" />
+    <link href="https://michaelhrehor.com" />
     <updated>2021-05-30T00:56:11-07:00</updated>
     <author>
         <name>Michael</name>
     </author>
-    <id>https://mhrehor.github.io/mh-com</id>
+    <id>https://michaelhrehor.com</id>
 
     <entry>
         <title>My Autistic Journey</title>
         <author>
             <name>Michael</name>
         </author>
-        <link href="https://mhrehor.github.io/mh-com/my-autistic-journey/"/>
-        <id>https://mhrehor.github.io/mh-com/my-autistic-journey/</id>
+        <link href="https://michaelhrehor.com/my-autistic-journey/"/>
+        <id>https://michaelhrehor.com/my-autistic-journey/</id>
             <category term="Recurrent Meningitis"/>
             <category term="Rare Disease"/>
             <category term="Periodic Paralysis"/>
@@ -32,7 +32,7 @@
         <updated>2021-05-30T00:56:11-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mhrehor.github.io/mh-com/media/posts/5/My-Autistic-Journey-Featured-Image.png" alt="Peaceful lake view" />
+                        <img src="https://michaelhrehor.com/media/posts/5/My-Autistic-Journey-Featured-Image.png" alt="Peaceful lake view" />
                      Background This is going to be hard for me to write and explain. I have been thinking about this,&hellip;
                 ]]>
             </summary>
@@ -43,8 +43,8 @@
         <author>
             <name>Michael</name>
         </author>
-        <link href="https://mhrehor.github.io/mh-com/hello-and-welcome/"/>
-        <id>https://mhrehor.github.io/mh-com/hello-and-welcome/</id>
+        <link href="https://michaelhrehor.com/hello-and-welcome/"/>
+        <id>https://michaelhrehor.com/hello-and-welcome/</id>
             <category term="TBI"/>
             <category term="Recurrent Meningitis"/>
             <category term="Rare Disease"/>
@@ -60,7 +60,7 @@
         <updated>2021-05-30T00:54:53-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mhrehor.github.io/mh-com/media/posts/6/Hello-and-Welcome-Featured-Image-2.png" alt="San Diego Bay" />
+                        <img src="https://michaelhrehor.com/media/posts/6/Hello-and-Welcome-Featured-Image-2.png" alt="San Diego Bay" />
                     My Life Hello and Welcome (TW/CW Head Injuries, Chronic Illness, Ableism, Trauma, Seizures, Suicide, Paralysis, Dystonia, Medical Trauma) Hi, my&hellip;
                 ]]>
             </summary>
@@ -71,8 +71,8 @@
         <author>
             <name>Michael</name>
         </author>
-        <link href="https://mhrehor.github.io/mh-com/health/"/>
-        <id>https://mhrehor.github.io/mh-com/health/</id>
+        <link href="https://michaelhrehor.com/health/"/>
+        <id>https://michaelhrehor.com/health/</id>
             <category term="ZNF469"/>
             <category term="TBI"/>
             <category term="Spinal Stenosis"/>
@@ -113,7 +113,7 @@
         <updated>2021-05-29T21:10:09-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mhrehor.github.io/mh-com/media/posts/3/Health-Featured-Image.png" alt="Ocean with Pier" />
+                        <img src="https://michaelhrehor.com/media/posts/3/Health-Featured-Image.png" alt="Ocean with Pier" />
                      Some diagnosis are official and others are self diagnosed or suspected. This is due to the lack of access&hellip;
                 ]]>
             </summary>

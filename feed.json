@@ -2,19 +2,19 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Michael&#x27;s Life",
     "description": "",
-    "home_page_url": "https://mhrehor.github.io/mh-com",
-    "feed_url": "https://mhrehor.github.io/mh-com/feed.json",
+    "home_page_url": "https://michaelhrehor.com",
+    "feed_url": "https://michaelhrehor.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Michael"
     },
     "items": [
         {
-            "id": "https://mhrehor.github.io/mh-com/my-autistic-journey/",
-            "url": "https://mhrehor.github.io/mh-com/my-autistic-journey/",
+            "id": "https://michaelhrehor.com/my-autistic-journey/",
+            "url": "https://michaelhrehor.com/my-autistic-journey/",
             "title": "My Autistic Journey",
             "summary": " Background This is going to be hard for me to write and explain. I have been thinking about this,&hellip;",
-            "image": "https://mhrehor.github.io/mh-com/media/posts/5/My-Autistic-Journey-Featured-Image.png",
+            "image": "https://michaelhrehor.com/media/posts/5/My-Autistic-Journey-Featured-Image.png",
             "author": {
                 "name": "Michael"
             },
@@ -36,11 +36,11 @@
             "date_modified": "2021-05-30T00:56:11-07:00"
         },
         {
-            "id": "https://mhrehor.github.io/mh-com/hello-and-welcome/",
-            "url": "https://mhrehor.github.io/mh-com/hello-and-welcome/",
+            "id": "https://michaelhrehor.com/hello-and-welcome/",
+            "url": "https://michaelhrehor.com/hello-and-welcome/",
             "title": "Hello and Welcome!",
             "summary": "My Life Hello and Welcome (TW/CW Head Injuries, Chronic Illness, Ableism, Trauma, Seizures, Suicide, Paralysis, Dystonia, Medical Trauma) Hi, my&hellip;",
-            "image": "https://mhrehor.github.io/mh-com/media/posts/6/Hello-and-Welcome-Featured-Image-2.png",
+            "image": "https://michaelhrehor.com/media/posts/6/Hello-and-Welcome-Featured-Image-2.png",
             "author": {
                 "name": "Michael"
             },
@@ -61,11 +61,11 @@
             "date_modified": "2021-05-30T00:54:53-07:00"
         },
         {
-            "id": "https://mhrehor.github.io/mh-com/health/",
-            "url": "https://mhrehor.github.io/mh-com/health/",
+            "id": "https://michaelhrehor.com/health/",
+            "url": "https://michaelhrehor.com/health/",
             "title": "Health",
             "summary": " Some diagnosis are official and others are self diagnosed or suspected. This is due to the lack of access&hellip;",
-            "image": "https://mhrehor.github.io/mh-com/media/posts/3/Health-Featured-Image.png",
+            "image": "https://michaelhrehor.com/media/posts/3/Health-Featured-Image.png",
             "author": {
                 "name": "Michael"
             },
