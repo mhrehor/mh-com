@@ -78,6 +78,7 @@
                    "Periodic Paralysis",
                    "Paramyotonia Congenita",
                    "PTSD",
+                   "POTS",
                    "PLOD1",
                    "OCD",
                    "NOD2",
@@ -108,7 +109,7 @@
                    "ADHD"
             ],
             "date_published": "2021-05-03T18:44:00-07:00",
-            "date_modified": "2021-06-04T02:07:56-07:00"
+            "date_modified": "2021-06-04T02:09:39-07:00"
         }
     ]
 }
