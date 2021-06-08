@@ -10,6 +10,26 @@
     },
     "items": [
         {
+            "id": "https://michaelhrehor.com/ats/",
+            "url": "https://michaelhrehor.com/ats/",
+            "title": "Andersen-Tawil Syndrome (ATS)",
+            "summary": "Diagnostic Criteria (from NIH) The diagnosis of Andersen-Tawil syndrome might be suspected in individuals with either:[2] 1. Two of the following three&hellip;",
+            "image": "https://michaelhrehor.com/media/posts/8/ATS-Featured-Image.png",
+            "author": {
+                "name": "Michael"
+            },
+            "tags": [
+                   "Periodic Paralysis",
+                   "POTS",
+                   "KCNJ2",
+                   "Hypermobility",
+                   "Bradycardia",
+                   "Andersen-Tawil Syndrome"
+            ],
+            "date_published": "2021-06-08T00:54:44-07:00",
+            "date_modified": "2021-06-08T00:54:44-07:00"
+        },
+        {
             "id": "https://michaelhrehor.com/my-autistic-journey/",
             "url": "https://michaelhrehor.com/my-autistic-journey/",
             "title": "My Autistic Journey",

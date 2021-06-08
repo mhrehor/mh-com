@@ -3,12 +3,35 @@
     <title>Michael&#x27;s Life</title>
     <link href="https://michaelhrehor.com/feed.xml" rel="self" />
     <link href="https://michaelhrehor.com" />
-    <updated>2021-06-04T02:09:39-07:00</updated>
+    <updated>2021-06-08T00:54:44-07:00</updated>
     <author>
         <name>Michael</name>
     </author>
     <id>https://michaelhrehor.com</id>
 
+    <entry>
+        <title>Andersen-Tawil Syndrome (ATS)</title>
+        <author>
+            <name>Michael</name>
+        </author>
+        <link href="https://michaelhrehor.com/ats/"/>
+        <id>https://michaelhrehor.com/ats/</id>
+            <category term="Periodic Paralysis"/>
+            <category term="POTS"/>
+            <category term="KCNJ2"/>
+            <category term="Hypermobility"/>
+            <category term="Bradycardia"/>
+            <category term="Andersen-Tawil Syndrome"/>
+
+        <updated>2021-06-08T00:54:44-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://michaelhrehor.com/media/posts/8/ATS-Featured-Image.png" alt="River waterfall and mountains" />
+                    Diagnostic Criteria (from NIH) The diagnosis of Andersen-Tawil syndrome might be suspected in individuals with either:[2] 1. Two of the following three&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>My Autistic Journey</title>
         <author>
