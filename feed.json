@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://michaelhrehor.com/paramyotonia-congenita/",
+            "url": "https://michaelhrehor.com/paramyotonia-congenita/",
+            "title": "Paramyotonia Congenita (PMC)",
+            "summary": "Symptom List Medical Terms Other Names Learn More: HPO ID My Symptoms 30%-79% of people have these symptoms Cold paresis&hellip;",
+            "image": "https://michaelhrehor.com/media/posts/17/PMC-Featured-Image.png",
+            "author": {
+                "name": "Michael"
+            },
+            "tags": [
+                   "Paramyotonia Congenita",
+                   "PMC"
+            ],
+            "date_published": "2021-06-08T22:28:15-07:00",
+            "date_modified": "2021-06-08T22:28:15-07:00"
+        },
+        {
             "id": "https://michaelhrehor.com/ibd-blau-yao/",
             "url": "https://michaelhrehor.com/ibd-blau-yao/",
             "title": "NOD2 Investigation",

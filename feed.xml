@@ -3,12 +3,31 @@
     <title>Michael&#x27;s Life</title>
     <link href="https://michaelhrehor.com/feed.xml" rel="self" />
     <link href="https://michaelhrehor.com" />
-    <updated>2021-06-08T18:06:04-07:00</updated>
+    <updated>2021-06-08T22:28:15-07:00</updated>
     <author>
         <name>Michael</name>
     </author>
     <id>https://michaelhrehor.com</id>
 
+    <entry>
+        <title>Paramyotonia Congenita (PMC)</title>
+        <author>
+            <name>Michael</name>
+        </author>
+        <link href="https://michaelhrehor.com/paramyotonia-congenita/"/>
+        <id>https://michaelhrehor.com/paramyotonia-congenita/</id>
+            <category term="Paramyotonia Congenita"/>
+            <category term="PMC"/>
+
+        <updated>2021-06-08T22:28:15-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://michaelhrehor.com/media/posts/17/PMC-Featured-Image.png" alt="Forest with light shining through the trees" />
+                    Symptom List Medical Terms Other Names Learn More: HPO ID My Symptoms 30%-79% of people have these symptoms Cold paresis&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>NOD2 Investigation</title>
         <author>
