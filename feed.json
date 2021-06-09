@@ -10,6 +10,25 @@
     },
     "items": [
         {
+            "id": "https://michaelhrehor.com/ibd-blau-yao/",
+            "url": "https://michaelhrehor.com/ibd-blau-yao/",
+            "title": "NOD2 Investigation",
+            "summary": "Diagnostic Criteria Symptom IBD Blau Yao My Symptoms Diarrhea X ✔️ Fatigue X ✔️ Abdominal pain and cramping X ✔️&hellip;",
+            "image": "https://michaelhrehor.com/media/posts/12/IBD-Featured-Image.png",
+            "author": {
+                "name": "Michael"
+            },
+            "tags": [
+                   "Yao Syndrome",
+                   "NOD2",
+                   "Inflamatory Bowel Disease",
+                   "IBD",
+                   "Blau Syndrome"
+            ],
+            "date_published": "2021-06-08T18:01:40-07:00",
+            "date_modified": "2021-06-08T18:02:14-07:00"
+        },
+        {
             "id": "https://michaelhrehor.com/ats/",
             "url": "https://michaelhrehor.com/ats/",
             "title": "Andersen-Tawil Syndrome (ATS)",
@@ -27,7 +46,7 @@
                    "Andersen-Tawil Syndrome"
             ],
             "date_published": "2021-06-08T00:54:44-07:00",
-            "date_modified": "2021-06-08T01:07:00-07:00"
+            "date_modified": "2021-06-08T15:17:57-07:00"
         },
         {
             "id": "https://michaelhrehor.com/my-autistic-journey/",
@@ -78,7 +97,7 @@
                    "Anxiety"
             ],
             "date_published": "2021-05-04T19:34:00-07:00",
-            "date_modified": "2021-06-08T01:00:42-07:00"
+            "date_modified": "2021-06-08T18:06:04-07:00"
         },
         {
             "id": "https://michaelhrehor.com/health/",
@@ -129,7 +148,7 @@
                    "ADHD"
             ],
             "date_published": "2021-05-03T18:44:00-07:00",
-            "date_modified": "2021-06-08T00:58:33-07:00"
+            "date_modified": "2021-06-08T18:05:04-07:00"
         }
     ]
 }

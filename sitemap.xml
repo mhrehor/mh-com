@@ -5,8 +5,20 @@
 <loc>https://michaelhrehor.com/</loc>
 </url>
 <url>
+<loc>https://michaelhrehor.com/ats/</loc>
+<lastmod>2021-06-08T15:17:57-07:00</lastmod>
+<image:image>
+<image:loc>https://michaelhrehor.com/media/posts/8/ATS-Featured-Image.png</image:loc>
+<image:title><![CDATA[River waterfall and mountains]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://michaelhrehor.com/media/posts/8/KCNJ2-DNA-Results-2.png</image:loc>
+<image:title><![CDATA[KCNJ2 DNA Results]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://michaelhrehor.com/health/</loc>
-<lastmod>2021-06-08T00:58:33-07:00</lastmod>
+<lastmod>2021-06-08T18:05:04-07:00</lastmod>
 <image:image>
 <image:loc>https://michaelhrehor.com/media/posts/3/Health-Featured-Image.png</image:loc>
 <image:title><![CDATA[Ocean with Pier]]></image:title>
@@ -14,7 +26,7 @@
 </url>
 <url>
 <loc>https://michaelhrehor.com/hello-and-welcome/</loc>
-<lastmod>2021-06-08T01:00:42-07:00</lastmod>
+<lastmod>2021-06-08T18:06:04-07:00</lastmod>
 <image:image>
 <image:loc>https://michaelhrehor.com/media/posts/6/Hello-and-Welcome-Featured-Image-2.png</image:loc>
 <image:title><![CDATA[San Diego Bay]]></image:title>
@@ -38,6 +50,18 @@
 <image:image>
 <image:loc>https://michaelhrehor.com/media/posts/6/Michael-Meningitis-Mask.png</image:loc>
 <image:title><![CDATA[Michael meningitis mask]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://michaelhrehor.com/ibd-blau-yao/</loc>
+<lastmod>2021-06-08T18:02:14-07:00</lastmod>
+<image:image>
+<image:loc>https://michaelhrehor.com/media/posts/12/IBD-Featured-Image.png</image:loc>
+<image:title><![CDATA[River through forest with mountains]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://michaelhrehor.com/media/posts/12/NOD2-DNA-Results.png</image:loc>
+<image:title><![CDATA[NOD2 DNA Results]]></image:title>
 </image:image>
 </url>
 <url>

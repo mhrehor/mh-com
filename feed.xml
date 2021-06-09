@@ -3,12 +3,34 @@
     <title>Michael&#x27;s Life</title>
     <link href="https://michaelhrehor.com/feed.xml" rel="self" />
     <link href="https://michaelhrehor.com" />
-    <updated>2021-06-08T01:07:00-07:00</updated>
+    <updated>2021-06-08T18:06:04-07:00</updated>
     <author>
         <name>Michael</name>
     </author>
     <id>https://michaelhrehor.com</id>
 
+    <entry>
+        <title>NOD2 Investigation</title>
+        <author>
+            <name>Michael</name>
+        </author>
+        <link href="https://michaelhrehor.com/ibd-blau-yao/"/>
+        <id>https://michaelhrehor.com/ibd-blau-yao/</id>
+            <category term="Yao Syndrome"/>
+            <category term="NOD2"/>
+            <category term="Inflamatory Bowel Disease"/>
+            <category term="IBD"/>
+            <category term="Blau Syndrome"/>
+
+        <updated>2021-06-08T18:02:14-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://michaelhrehor.com/media/posts/12/IBD-Featured-Image.png" alt="River through forest with mountains" />
+                    Diagnostic Criteria Symptom IBD Blau Yao My Symptoms Diarrhea X ✔️ Fatigue X ✔️ Abdominal pain and cramping X ✔️&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Andersen-Tawil Syndrome (ATS)</title>
         <author>
@@ -23,7 +45,7 @@
             <category term="Bradycardia"/>
             <category term="Andersen-Tawil Syndrome"/>
 
-        <updated>2021-06-08T01:07:00-07:00</updated>
+        <updated>2021-06-08T15:17:57-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://michaelhrehor.com/media/posts/8/ATS-Featured-Image.png" alt="River waterfall and mountains" />
@@ -80,7 +102,7 @@
             <category term="Autism"/>
             <category term="Anxiety"/>
 
-        <updated>2021-06-08T01:00:42-07:00</updated>
+        <updated>2021-06-08T18:06:04-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://michaelhrehor.com/media/posts/6/Hello-and-Welcome-Featured-Image-2.png" alt="San Diego Bay" />
@@ -134,7 +156,7 @@
             <category term="Andersen-Tawil Syndrome"/>
             <category term="ADHD"/>
 
-        <updated>2021-06-08T00:58:33-07:00</updated>
+        <updated>2021-06-08T18:05:04-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://michaelhrehor.com/media/posts/3/Health-Featured-Image.png" alt="Ocean with Pier" />
