@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://michaelhrehor.com/eds/",
+            "url": "https://michaelhrehor.com/eds/",
+            "title": "EDS",
+            "summary": "hEDS Diagnostic Criteria from MUSC Norris Lab PDF Copy The clinical diagnosis of hypermobile EDS needs the simultaneous presence of&hellip;",
+            "author": {
+                "name": "Michael"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-09-11T23:15:49-07:00",
+            "date_modified": "2021-09-11T23:15:49-07:00"
+        },
+        {
             "id": "https://michaelhrehor.com/pmc/",
             "url": "https://michaelhrehor.com/pmc/",
             "title": "Paramyotonia Congenita (PMC)",
@@ -88,7 +101,7 @@
                    "Anxiety"
             ],
             "date_published": "2021-05-05T21:12:00-07:00",
-            "date_modified": "2021-08-28T16:19:09-07:00"
+            "date_modified": "2021-09-11T22:35:28-07:00"
         },
         {
             "id": "https://michaelhrehor.com/hello-and-welcome/",
