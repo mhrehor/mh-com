@@ -14,13 +14,19 @@
             "url": "https://michaelhrehor.com/eds/",
             "title": "EDS",
             "summary": "hEDS Diagnostic Criteria from MUSC Norris Lab PDF Copy The clinical diagnosis of hypermobile EDS needs the simultaneous presence of&hellip;",
+            "image": "https://michaelhrehor.com/media/posts/9/EDS.png",
             "author": {
                 "name": "Michael"
             },
             "tags": [
+                   "PLOD1",
+                   "Hypermobility",
+                   "Ehlers-Danlos Syndrome",
+                   "COL1A1",
+                   "Blog"
             ],
             "date_published": "2021-09-11T23:15:49-07:00",
-            "date_modified": "2021-09-11T23:15:49-07:00"
+            "date_modified": "2021-09-11T23:22:37-07:00"
         },
         {
             "id": "https://michaelhrehor.com/pmc/",
